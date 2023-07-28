@@ -1,4 +1,4 @@
-const CLI = require('./lib/shapes');
+const CLI = require('./lib/questions');
 
 const newCLI = new CLI();
 
