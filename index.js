@@ -1,4 +1,4 @@
-const CLI = require('./lib/questions');
+const CLI = require('./lib/cli');
 
 const newCLI = new CLI();
 
