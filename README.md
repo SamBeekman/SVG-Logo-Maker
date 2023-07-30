@@ -27,6 +27,9 @@ To install, you must clone down the project and install the required packages us
 
 This project is free to use and is executed in the terminal by entering 'npm start' or 'node index.js'.
 
+![svg](https://github.com/SamBeekman/SVG-Logo-Maker/assets/131665093/68d62db0-d7f2-452e-ab3a-f2a5a22500a8)
+
+
 
 ## Contributing
 
