@@ -21,6 +21,11 @@ This project utilises Node.JS to build a command line interface that will genera
 ## Installation
 
 To install, you must clone down the project and install the required packages using 'npm i' in the terminal.
+Packages used are:
+- inquirer 8.2.4
+- fs 0.0.1-security
+- color-name-list 10.10.0
+- jest 29.6.2
 
 
 ## Usage
